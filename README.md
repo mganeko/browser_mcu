@@ -16,9 +16,9 @@ Browser MCU シリーズは、ブラウザの映像/音声処理を活用した�
 
 ## License / ライセンス
 
-* Browser MCU Core, Server, Docker,  is under the MIT license
+* Browser MCU Core, Browser MCU Server, Browser MCU Docker,  is under the MIT license
 * Browser MCU Service is NOT Open Source
-* Browser MCU Core, Server, Docker はMITランセンスで提供されます
+* Browser MCU Core, Browser MCU Server, Browser MCU Docker はMITランセンスで提供されます
 * Browser MCU Service はオープンソースではありません
 
 
