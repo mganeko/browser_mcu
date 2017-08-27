@@ -4,8 +4,8 @@ Browser MCU Series is WebRTC MCU using a browser for video/audio processing <br 
 Browser MCU シリーズは、ブラウザの映像/音声処理を活用した、WebRTC用MCUです <br />
 
 * [Browser MCU Core](https://github.com/mganeko/browser_mcu_core) ... MCU library using a browser for video/audio processing
-* [Browser MCU Server](https://github.com/mganeko/browser_mcu_server) ... Docker container for [Bowser MCU Server](https://github.com/mganeko/browser_mcu_server) and headless browser MCU
-* [Browser MCU Pack](https://github.com/mganeko/browser_mcu_pack) ... Simple example of multiple participants meeting with single room
+* [Browser MCU Server](https://github.com/mganeko/browser_mcu_server) ... Simple example of multiple participants meeting with single room
+* [Browser MCU Pack](https://github.com/mganeko/browser_mcu_pack) ... Docker container for [Bowser MCU Server](https://github.com/mganeko/browser_mcu_server) and headless browser MCU
 * Browser MCU Service ...  Meeting service for multiple participants meeting with multiple room. NOT Open Source
 * [Browser MCU Docker](https://github.com/mganeko/browser_mcu_docker) ... MCU container module for Browser MCU Service, using Chrome as headless browser
 * --
