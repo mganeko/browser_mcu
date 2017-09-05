@@ -15,6 +15,11 @@ Browser MCU シリーズは、ブラウザの映像/音声処理を活用した�
 * Browser MCU Service ...  複数参加者、複数ルームの会議のサービス。 ※オープンソースではありません
 * [Browser MCU Docker](https://github.com/mganeko/browser_mcu_docker) ... Chromeをヘッドレスブラウザーとしてつかた、Browser MCU Service用のMCUコンテナモジュール
 
+## Thanks / 謝辞
+
+* Thaks to @voluntas for advice to design whole structure of Browser MCU Series
+* Browser MCU シリーズの構成にあたっては、@voluntas 氏からアドバイスをいただきました。どうもありがとうございます
+
 
 ## License / ライセンス
 
